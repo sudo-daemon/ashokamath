@@ -1,6 +1,2 @@
 # ashokamath
-Website for Ashoka University Mathematics question bank
-
-This is it!
-
-Actually, this is it. 
+Website for Ashoka University Mathematics question bank. Idea is to operationalise this. 
